@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "scratchers\\nstest\\": "/"
+        },
+        "classmap": [
+            "/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    }
+}

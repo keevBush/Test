@@ -1,0 +1,147 @@
+[
+    {
+        "from": "Madrid",
+        "to": "Barcelona",
+        "vehicle": "Train",
+        "seat":"45B",
+        "vehicle_Detail":"GATE 45B",
+        "vehicle_key":"T001",
+        "bagage_description": "none"
+    },
+    {
+        "from": "Gerona Airport",
+        "to": "Stockholm",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"3A",
+        "vehicle_key":"SK455",
+        "bagage_description": "Baggage drop at ticket counter 344."
+    },
+    {
+        "from": "Barcelona",
+        "to": "Gerona Airport",
+        "vehicle": "airport bus",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"none",
+        "vehicle_key":"none",
+        "bagage_description": "none"
+    },
+    {
+        "from": "Stockholm",
+        "to": "New York JFK",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "New York JFK",
+        "to": "Paris",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 41B",
+        "seat":"2B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "A",
+        "to": "B",
+        "vehicle": "bus",
+        "vehicle_Detail":"",
+        "seat":"",
+        "vehicle_key":"BUS-001",
+        "bagage_description": ""
+    },
+    {
+        "from": "C",
+        "to": "D",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": ""
+    },
+    {
+        "from": "D",
+        "to": "H",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": ""
+    },
+    {
+        "from": "A",
+        "to": "H",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": ""
+    },
+    {
+        "from": "B",
+        "to": "H",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "H",
+        "to": "K",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "K",
+        "to": "L",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "L",
+        "to": "M",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    }
+    ,
+    {
+        "from": "M",
+        "to": "N",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "N",
+        "to": "O",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "O",
+        "to": "P",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "from": "Madrid",
+        "to": "Barcelona",
+        "vehicle": "Train",
+        "seat":"45B",
+        "vehicle_Detail":"GATE 5B",
+        "vehicle_key":"T001",
+        "bagage_description": "none"
+    },
+    {
+        "from": "Gerona Airport",
+        "to": "Stockholm",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"3A",
+        "vehicle_key":"SK455",
+        "bagage_description": "Baggage drop at ticket counter 344."
+    },
+    {
+        "from": "Barcelona",
+        "to": "Gerona Airport",
+        "vehicle": "airport bus",
+        "vehicle_Detail":"",
+        "seat":"none",
+        "vehicle_key":"none",
+        "bagage_description": "none"
+    },
+    {
+        "from": "Stockholm",
+        "to": "New York JFK",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "New York JFK",
+        "to": "Paris",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 41B",
+        "seat":"2B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "A",
+        "to": "B",
+        "vehicle": "bus",
+        "vehicle_Detail":"",
+        "seat":"",
+        "vehicle_key":"BUS-001",
+        "bagage_description": "none"
+    },
+    {
+        "from": "H",
+        "to": "K",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "Baggage will we automatically transferred from your last leg."
+    },
+    {
+        "from": "C",
+        "to": "D",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "none"
+    },
+    {
+        "from": "D",
+        "to": "H",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "none"
+    },
+    {
+        "from": "A",
+        "to": "H",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "none"
+    },
+    {
+        "from": "B",
+        "to": "H",
+        "vehicle": "flight",
+        "vehicle_Detail":"GATE 45B",
+        "seat":"7B",
+        "vehicle_key":"SK22",
+        "bagage_description": "none"
+    }
+    ,
+    {
+        "from": "A",
+        "to": "HG",
+        "vehicle": "Train",
+        "vehicle_Detail":"GATE 5B",
+        "seat":"08B",
+        "vehicle_key":"T224",
+        "bagage_description": "none"
+    }
+    ,
+    {
+        "from": "B",
+        "to": "HG",
+        "vehicle": "Train",
+        "vehicle_Detail":"GATE 5B",
+        "seat":"08B",
+        "vehicle_key":"T224",
+        "bagage_description": "none"
+    }   
+]
