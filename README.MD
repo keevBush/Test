@@ -56,3 +56,5 @@ After clone this repository  execute this :
 - ``` cd react_app```
 - ```npm install```
 - ``` npm run start```
+
+#### Warning : There's only one commit because I had some problems with ```git init```.
